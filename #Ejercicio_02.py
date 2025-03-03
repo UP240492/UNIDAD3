@@ -16,26 +16,24 @@ City = "Ags"
 Age = 18
 Is_married = False
 Skills = ('drive, do exercise, go to run')
-Person_info = (
-    'first name' = 'David'
-    'last name' = 'Valtierra'
-    'Country' = 'Mexico'
-    'City' = 'Ags')
-
+Person_info = ('first name') = ('David')
+('last name') = ('Valtierra')
+('Country') = ('Mexico')
+("City" )= ('Ags')
 
 #3
 print('Hello, world')
-print('Hello',',','world`,'!'')
-print(len('Hello, world'))
+print('Hello',',','World','!')
+print(len('Hello,World'))
 
 #4
-print('First name=',First_name)
-print('First name length=',len(last_name))
-print('Last name='.last_name)
-print('Last name lemgth='.len(last_name))
-pirnt('Country=',country)
-print('City=',city)
-print('Age=',age)
-print('married:',is_married)
-print('Skills:',skills)
-print('Perdonal information:',personal_info)
+print('First name:',First_name)
+print('First name length:',len(Last_name))
+print('Last name:',Last_name)
+print('Last name length:',len(Last_name))
+print('Countr:',Country)
+print('City:',(City))
+print('Age:',(Age))
+print('Married:',Is_married)
+print('Skills:',Skills)
+print('Personal information:',Person_info)
