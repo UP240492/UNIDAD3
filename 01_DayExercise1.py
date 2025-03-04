@@ -15,6 +15,7 @@ print("Mexico")
 print("I am enjoying 30 days of python")
 
 #ejercicio_03
+
 print(type (10))
 print(type (9.8))
 print(type (3.14))
@@ -24,4 +25,5 @@ print("Asabene", "Python", "Finland")
 print(type ('David'))
 print(type ('Valtierra'))
 print(type ('Mexico'))
+print("hola")
 
